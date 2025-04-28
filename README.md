@@ -4,30 +4,6 @@
 A production-ready REST API built with **Express.js**, **PostgreSQL**, and **Docker**. Features Joi validation, standardized error handling.
 
 ---
-
-## 📋 Table of Contents
-- [Features](#-features)
-
-✅ Express.js – Fast and minimalist web framework for Node.js
-
-✅ PostgreSQL – Powerful relational database for structured data
-
-✅ Docker – Containerized for easy deployment and development
-
-✅ Joi Validation – Request schema validation for API endpoints
-
-✅ Error Handling – Standardized error responses for all APIs
-
-✅ Environment Variables – Secure configuration using .env
-
-- [Installation](#-installation)
-- [API Documentation](#-api-documentation)
-- [Error Handling](#-error-handling)
-
-
-
----
-
 ## ✨ Features
 - **Express.js** backend with RESTful routing
 - **PostgreSQL** database integration
