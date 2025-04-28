@@ -7,13 +7,13 @@ A production-ready REST API built with **Express.js**, **PostgreSQL**, and **Doc
 
 ## 📋 Table of Contents
 - [Features](#-features)
- Express.js – Fast and minimalist web framework for Node.js
+
+✅ Express.js – Fast and minimalist web framework for Node.js
 ✅ PostgreSQL – Powerful relational database for structured data
 ✅ Docker – Containerized for easy deployment and development
 ✅ Joi Validation – Request schema validation for API endpoints
 ✅ Error Handling – Standardized error responses for all APIs
 ✅ Environment Variables – Secure configuration using .env
-- [Prerequisites](#-prerequisites)
 - [Installation](#-installation)
 - [API Documentation](#-api-documentation)
 - [Error Handling](#-error-handling)
